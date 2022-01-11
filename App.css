@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.ReceiptList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Reciept{
+  width: 380px;
+  margin: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  border: 2px solid orange;
+
+  text-align: left;
+}
+
+.OrderCategory{
+  color: purple;
+}
+
+.ReceiptSelect{
+  width: 150px;
+  margin: auto;
+}
